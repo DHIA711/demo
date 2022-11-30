@@ -1,0 +1,5 @@
+d49ae4,127.0.0.1,GET,http://localhost:8000/,1669809511,,404
+e74440,127.0.0.1,GET,http://localhost:8000/product/,1669809518,,200
+ab8c7f,127.0.0.1,GET,http://localhost:8000/product/new,1669809520,,200
+6a1ded,127.0.0.1,POST,http://localhost:8000/product/new,1669809528,,303
+1167cb,127.0.0.1,GET,http://localhost:8000/product/,1669809528,,200
